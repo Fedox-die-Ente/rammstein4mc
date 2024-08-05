@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "rammstein:item/feuerfrei_music_disc"
+  }
+}

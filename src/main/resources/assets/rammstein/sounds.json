@@ -1,0 +1,146 @@
+{
+  "sonne": {
+    "sounds": [
+      {
+        "name": "rammstein:sonne",
+        "stream": true
+      }
+    ]
+  },
+  "deutschland": {
+    "sounds": [
+      {
+        "name": "rammstein:deutschland",
+        "stream": true
+      }
+    ]
+  },
+  "donaukinder": {
+    "sounds": [
+      {
+        "name": "rammstein:donaukinder",
+        "stream": true
+      }
+    ]
+  },
+  "duhast": {
+    "sounds": [
+      {
+        "name": "rammstein:duhast",
+        "stream": true
+      }
+    ]
+  },
+  "ichwill": {
+    "sounds": [
+      {
+        "name": "rammstein:ichwill",
+        "stream": true
+      }
+    ]
+  },
+  "auslaender": {
+    "sounds": [
+      {
+        "name": "rammstein:auslaender",
+        "stream": true
+      }
+    ]
+  },
+  "feuerfrei": {
+    "sounds": [
+      {
+        "name": "rammstein:feuerfrei",
+        "stream": true
+      }
+    ]
+  },
+  "meinherzbrennt": {
+    "sounds": [
+      {
+        "name": "rammstein:meinherzbrennt",
+        "stream": true
+      }
+    ]
+  },
+  "mutter": {
+    "sounds": [
+      {
+        "name": "rammstein:mutter",
+        "stream": true
+      }
+    ]
+  },
+  "engel": {
+    "sounds": [
+      {
+        "name": "rammstein:engel",
+        "stream": true
+      }
+    ]
+  },
+  "links": {
+    "sounds": [
+      {
+        "name": "rammstein:links",
+        "stream": true
+      }
+    ]
+  },
+  "rosenrot": {
+    "sounds": [
+      {
+        "name": "rammstein:rosenrot",
+        "stream": true
+      }
+    ]
+  },
+  "radio": {
+    "sounds": [
+      {
+        "name": "rammstein:radio",
+        "stream": true
+      }
+    ]
+  },
+  "ohnedich": {
+    "sounds": [
+      {
+        "name": "rammstein:ohnedich",
+        "stream": true
+      }
+    ]
+  },
+  "moskau": {
+    "sounds": [
+      {
+        "name": "rammstein:moskau",
+        "stream": true
+      }
+    ]
+  },
+  "diamant": {
+    "sounds": [
+      {
+        "name": "rammstein:diamant",
+        "stream": true
+      }
+    ]
+  },
+  "reisereise": {
+    "sounds": [
+      {
+        "name": "rammstein:reisereise",
+        "stream": true
+      }
+    ]
+  },
+  "keinelust": {
+    "sounds": [
+      {
+        "name": "rammstein:keinelust",
+        "stream": true
+      }
+    ]
+  }
+}
