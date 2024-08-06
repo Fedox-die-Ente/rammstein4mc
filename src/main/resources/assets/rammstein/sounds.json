@@ -142,5 +142,125 @@
         "stream": true
       }
     ]
+  },
+  "amerika": {
+    "sounds": [
+      {
+        "name": "rammstein:amerika",
+        "stream": true
+      }
+    ]
+  },
+  "ichtudirweh": {
+    "sounds": [
+      {
+        "name": "rammstein:ichtudirweh",
+        "stream": true
+      }
+    ]
+  },
+  "adieu": {
+    "sounds": [
+      {
+        "name": "rammstein:adieu",
+        "stream": true
+      }
+    ]
+  },
+  "armeedertristen": {
+    "sounds": [
+      {
+        "name": "rammstein:armeedertristen",
+        "stream": true
+      }
+    ]
+  },
+  "zeit": {
+    "sounds": [
+      {
+        "name": "rammstein:zeit",
+        "stream": true
+      }
+    ]
+  },
+  "schwarz": {
+    "sounds": [
+      {
+        "name": "rammstein:schwarz",
+        "stream": true
+      }
+    ]
+  },
+  "giftig": {
+    "sounds": [
+      {
+        "name": "rammstein:giftig",
+        "stream": true
+      }
+    ]
+  },
+  "zickzack": {
+    "sounds": [
+      {
+        "name": "rammstein:zickzack",
+        "stream": true
+      }
+    ]
+  },
+  "ok": {
+    "sounds": [
+      {
+        "name": "rammstein:ok",
+        "stream": true
+      }
+    ]
+  },
+  "meinetraenen": {
+    "sounds": [
+      {
+        "name": "rammstein:meinetraenen",
+        "stream": true
+      }
+    ]
+  },
+  "angst": {
+    "sounds": [
+      {
+        "name": "rammstein:angst",
+        "stream": true
+      }
+    ]
+  },
+  "dicketitten": {
+    "sounds": [
+      {
+        "name": "rammstein:dicketitten",
+        "stream": true
+      }
+    ]
+  },
+  "luegen": {
+    "sounds": [
+      {
+        "name": "rammstein:luegen",
+        "stream": true
+      }
+    ]
+  },
+  "klavier": {
+    "sounds": [
+      {
+        "name": "rammstein:klavier",
+        "stream": true
+      }
+    ]
+  },
+  "bernd": {
+    "sounds": [
+      {
+        "name": "rammstein:bernd",
+        "stream": true
+      }
+    ]
   }
 }

@@ -38,6 +38,22 @@ public class ModCreativeModTabs {
                         pOutput.accept(ModItems.DIAMANT_MUSIC_DISC.get());
                         pOutput.accept(ModItems.REISEREISE_MUSIC_DISC.get());
                         pOutput.accept(ModItems.KEINELUST_MUSIC_DISC.get());
+                        pOutput.accept(ModItems.AMERIKA_MUSIC_DISC.get());
+                        pOutput.accept(ModItems.ICHTUDIRWEH_MUSIC_DISC.get());
+                        pOutput.accept(ModItems.ADIEU_MUSIC_DISC.get());
+                        pOutput.accept(ModItems.ARMEEDERTRISTEN_MUSIC_DISC.get());
+                        pOutput.accept(ModItems.ZEIT_MUSIC_DISC.get());
+                        pOutput.accept(ModItems.SCHWARZ_MUSIC_DISC.get());
+                        pOutput.accept(ModItems.GIFTIG_MUSIC_DISC.get());
+                        pOutput.accept(ModItems.ZICKZACK_MUSIC_DISC.get());
+                        pOutput.accept(ModItems.OK_MUSIC_DISC.get());
+                        pOutput.accept(ModItems.MEINETRAENEN_MUSIC_DISC.get());
+                        pOutput.accept(ModItems.ANGST_MUSIC_DISC.get());
+                        pOutput.accept(ModItems.DICKETITTEN_MUSIC_DISC.get());
+                        pOutput.accept(ModItems.LUEGEN_MUSIC_DISC.get());
+                        pOutput.accept(ModItems.KLAVIER_MUSIC_DISC.get());
+                        pOutput.accept(ModItems.BERND_MUSIC_DISC.get());
+
 
 
                     })

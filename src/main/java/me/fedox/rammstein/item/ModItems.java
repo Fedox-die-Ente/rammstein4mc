@@ -67,6 +67,51 @@ public class ModItems {
     public static final RegistryObject<Item> KEINELUST_MUSIC_DISC = ITEMS.register("keinelust_music_disc",
             () -> new RecordItem(6, ModSounds.KEINELUST, new Item.Properties().stacksTo(1).rarity(Rarity.RARE), 4440));
 
+    public static final RegistryObject<Item> AMERIKA_MUSIC_DISC = ITEMS.register("amerika_music_disc",
+            () -> new RecordItem(6, ModSounds.AMERIKA, new Item.Properties().stacksTo(1).rarity(Rarity.RARE), 4540));
+
+    public static final RegistryObject<Item> ICHTUDIRWEH_MUSIC_DISC = ITEMS.register("ichtudirweh_music_disc",
+            () -> new RecordItem(6, ModSounds.ICHTUDIRWEH, new Item.Properties().stacksTo(1).rarity(Rarity.RARE), 4740));
+
+    public static final RegistryObject<Item> ADIEU_MUSIC_DISC = ITEMS.register("adieu_music_disc",
+            () -> new RecordItem(6, ModSounds.ADIEU, new Item.Properties().stacksTo(1).rarity(Rarity.RARE), 5600));
+
+    public static final RegistryObject<Item> ARMEEDERTRISTEN_MUSIC_DISC = ITEMS.register("armeedertristen_music_disc",
+            () -> new RecordItem(6, ModSounds.ARMEEDERTRISTEN, new Item.Properties().stacksTo(1).rarity(Rarity.RARE), 4120));
+
+    public static final RegistryObject<Item> ZEIT_MUSIC_DISC = ITEMS.register("zeit_music_disc",
+            () -> new RecordItem(6, ModSounds.ZEIT, new Item.Properties().stacksTo(1).rarity(Rarity.RARE), 6420));
+
+    public static final RegistryObject<Item> SCHWARZ_MUSIC_DISC = ITEMS.register("schwarz_music_disc",
+            () -> new RecordItem(6, ModSounds.SCHWARZ, new Item.Properties().stacksTo(1).rarity(Rarity.RARE), 5160));
+
+    public static final RegistryObject<Item> GIFTIG_MUSIC_DISC = ITEMS.register("giftig_music_disc",
+            () -> new RecordItem(6, ModSounds.GIFTIG, new Item.Properties().stacksTo(1).rarity(Rarity.RARE), 3760));
+
+    public static final RegistryObject<Item> ZICKZACK_MUSIC_DISC = ITEMS.register("zickzack_music_disc",
+            () -> new RecordItem(6, ModSounds.ZICKZACK, new Item.Properties().stacksTo(1).rarity(Rarity.RARE), 4900));
+
+    public static final RegistryObject<Item> OK_MUSIC_DISC = ITEMS.register("ok_music_disc",
+            () -> new RecordItem(6, ModSounds.OK, new Item.Properties().stacksTo(1).rarity(Rarity.RARE), 4880));
+
+    public static final RegistryObject<Item> MEINETRAENEN_MUSIC_DISC = ITEMS.register("meinetraenen_music_disc",
+            () -> new RecordItem(6, ModSounds.MEINETRAENEN, new Item.Properties().stacksTo(1).rarity(Rarity.RARE), 4740));
+
+    public static final RegistryObject<Item> ANGST_MUSIC_DISC = ITEMS.register("angst_music_disc",
+            () -> new RecordItem(6, ModSounds.ANGST, new Item.Properties().stacksTo(1).rarity(Rarity.RARE), 4600));
+
+    public static final RegistryObject<Item> DICKETITTEN_MUSIC_DISC = ITEMS.register("dicketitten_music_disc",
+            () -> new RecordItem(6, ModSounds.DICKETITTEN, new Item.Properties().stacksTo(1).rarity(Rarity.RARE), 4380));
+
+    public static final RegistryObject<Item> LUEGEN_MUSIC_DISC = ITEMS.register("luegen_music_disc",
+            () -> new RecordItem(6, ModSounds.LUEGEN, new Item.Properties().stacksTo(1).rarity(Rarity.RARE), 4600));
+
+    public static final RegistryObject<Item> KLAVIER_MUSIC_DISC = ITEMS.register("klavier_music_disc",
+            () -> new RecordItem(6, ModSounds.KLAVIER, new Item.Properties().stacksTo(1).rarity(Rarity.RARE), 5240));
+
+    public static final RegistryObject<Item> BERND_MUSIC_DISC = ITEMS.register("bernd_music_disc",
+            () -> new RecordItem(6, ModSounds.BERND, new Item.Properties().stacksTo(1).rarity(Rarity.RARE), 6400));
+
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);
     }

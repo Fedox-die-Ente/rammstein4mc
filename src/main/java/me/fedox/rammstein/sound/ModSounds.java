@@ -49,6 +49,36 @@ public class ModSounds {
 
     public static final RegistryObject<SoundEvent> KEINELUST = registerSoundEvents("keinelust");
 
+    public static final RegistryObject<SoundEvent> AMERIKA = registerSoundEvents("amerika");
+
+    public static final RegistryObject<SoundEvent> ICHTUDIRWEH = registerSoundEvents("ichtudirweh");
+
+    public static final RegistryObject<SoundEvent> ADIEU = registerSoundEvents("adieu");
+
+    public static final RegistryObject<SoundEvent> ARMEEDERTRISTEN = registerSoundEvents("armeedertristen");
+
+    public static final RegistryObject<SoundEvent> ZEIT = registerSoundEvents("zeit");
+
+    public static final RegistryObject<SoundEvent> SCHWARZ = registerSoundEvents("schwarz");
+
+    public static final RegistryObject<SoundEvent> GIFTIG = registerSoundEvents("giftig");
+
+    public static final RegistryObject<SoundEvent> ZICKZACK = registerSoundEvents("zickzack");
+
+    public static final RegistryObject<SoundEvent> OK = registerSoundEvents("ok");
+
+    public static final RegistryObject<SoundEvent> MEINETRAENEN = registerSoundEvents("meinetraenen");
+
+    public static final RegistryObject<SoundEvent> ANGST = registerSoundEvents("angst");
+
+    public static final RegistryObject<SoundEvent> DICKETITTEN = registerSoundEvents("dicketitten");
+
+    public static final RegistryObject<SoundEvent> LUEGEN = registerSoundEvents("luegen");
+
+    public static final RegistryObject<SoundEvent> KLAVIER = registerSoundEvents("klavier");
+
+    public static final RegistryObject<SoundEvent> BERND = registerSoundEvents("bernd");
+
 
     private static RegistryObject<SoundEvent> registerSoundEvents(String name) {
         return SOUND_EVENTS.register(name, () -> SoundEvent.createVariableRangeEvent(new ResourceLocation(RammsteinMod.MOD_ID, name)));

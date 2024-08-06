@@ -60,6 +60,21 @@ public class ModItemModelProvider extends ItemModelProvider {
         simpleItem(ModItems.DIAMANT_MUSIC_DISC);
         simpleItem(ModItems.REISEREISE_MUSIC_DISC);
         simpleItem(ModItems.KEINELUST_MUSIC_DISC);
+        simpleItem(ModItems.AMERIKA_MUSIC_DISC);
+        simpleItem(ModItems.ICHTUDIRWEH_MUSIC_DISC);
+        simpleItem(ModItems.ADIEU_MUSIC_DISC);
+        simpleItem(ModItems.ARMEEDERTRISTEN_MUSIC_DISC);
+        simpleItem(ModItems.ZEIT_MUSIC_DISC);
+        simpleItem(ModItems.SCHWARZ_MUSIC_DISC);
+        simpleItem(ModItems.GIFTIG_MUSIC_DISC);
+        simpleItem(ModItems.ZICKZACK_MUSIC_DISC);
+        simpleItem(ModItems.OK_MUSIC_DISC);
+        simpleItem(ModItems.MEINETRAENEN_MUSIC_DISC);
+        simpleItem(ModItems.ANGST_MUSIC_DISC);
+        simpleItem(ModItems.DICKETITTEN_MUSIC_DISC);
+        simpleItem(ModItems.LUEGEN_MUSIC_DISC);
+        simpleItem(ModItems.KLAVIER_MUSIC_DISC);
+        simpleItem(ModItems.BERND_MUSIC_DISC);
 
     }
 

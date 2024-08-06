@@ -39,7 +39,22 @@ public class ModItemTagGenerator extends ItemTagsProvider {
                 .add(ModItems.MOSKAU_MUSIC_DISC.get())
                 .add(ModItems.DIAMANT_MUSIC_DISC.get())
                 .add(ModItems.REISEREISE_MUSIC_DISC.get())
-                .add(ModItems.KEINELUST_MUSIC_DISC.get());
+                .add(ModItems.KEINELUST_MUSIC_DISC.get())
+                .add(ModItems.AMERIKA_MUSIC_DISC.get())
+                .add(ModItems.ICHTUDIRWEH_MUSIC_DISC.get())
+                .add(ModItems.ADIEU_MUSIC_DISC.get())
+                .add(ModItems.ARMEEDERTRISTEN_MUSIC_DISC.get())
+                .add(ModItems.ZEIT_MUSIC_DISC.get())
+                .add(ModItems.SCHWARZ_MUSIC_DISC.get())
+                .add(ModItems.GIFTIG_MUSIC_DISC.get())
+                .add(ModItems.ZICKZACK_MUSIC_DISC.get())
+                .add(ModItems.OK_MUSIC_DISC.get())
+                .add(ModItems.MEINETRAENEN_MUSIC_DISC.get())
+                .add(ModItems.ANGST_MUSIC_DISC.get())
+                .add(ModItems.DICKETITTEN_MUSIC_DISC.get())
+                .add(ModItems.LUEGEN_MUSIC_DISC.get())
+                .add(ModItems.KLAVIER_MUSIC_DISC.get())
+                .add(ModItems.BERND_MUSIC_DISC.get());
 
         this.tag(ItemTags.CREEPER_DROP_MUSIC_DISCS)
                 .add(ModItems.SONNE_MUSIC_DISC.get())
@@ -59,6 +74,23 @@ public class ModItemTagGenerator extends ItemTagsProvider {
                 .add(ModItems.MOSKAU_MUSIC_DISC.get())
                 .add(ModItems.DIAMANT_MUSIC_DISC.get())
                 .add(ModItems.REISEREISE_MUSIC_DISC.get())
-                .add(ModItems.KEINELUST_MUSIC_DISC.get());
+                .add(ModItems.KEINELUST_MUSIC_DISC.get())
+                .add(ModItems.AMERIKA_MUSIC_DISC.get())
+                .add(ModItems.ICHTUDIRWEH_MUSIC_DISC.get())
+                .add(ModItems.ADIEU_MUSIC_DISC.get())
+                .add(ModItems.ARMEEDERTRISTEN_MUSIC_DISC.get())
+                .add(ModItems.ZEIT_MUSIC_DISC.get())
+                .add(ModItems.SCHWARZ_MUSIC_DISC.get())
+                .add(ModItems.GIFTIG_MUSIC_DISC.get())
+                .add(ModItems.ZICKZACK_MUSIC_DISC.get())
+                .add(ModItems.OK_MUSIC_DISC.get())
+                .add(ModItems.MEINETRAENEN_MUSIC_DISC.get())
+                .add(ModItems.ANGST_MUSIC_DISC.get())
+                .add(ModItems.DICKETITTEN_MUSIC_DISC.get())
+                .add(ModItems.LUEGEN_MUSIC_DISC.get())
+                .add(ModItems.KLAVIER_MUSIC_DISC.get())
+                .add(ModItems.BERND_MUSIC_DISC.get());
+
+
     }
 }
